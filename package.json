@@ -1,0 +1,25 @@
+{
+
+  "name": "NaviBot",
+
+  "description": "Create Bot for Private Server (VGA - NYC)",
+
+  "version": "0.0.0",
+
+  "main": "naviBot.js",
+
+  "scripts": {
+
+    "start": "node naviBot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
